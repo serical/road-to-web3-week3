@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c963f7cf-2c41-46c3-b091-76054613a77e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2DR19k4Fz62RHcVjhosGY0vcQG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c963f7cf-2c41-46c3-b091-76054613a77e" name="Default Changelist" comment="" />
+      <created>1660646933855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660646933855</updated>
+      <workItem from="1660646935138" duration="3956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2539" height="408" key="GridCell.Tab.0.bottom" timestamp="1660652019444">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1660652019444" />
+    <state width="2539" height="408" key="GridCell.Tab.0.center" timestamp="1660652019444">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.center/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1660652019444" />
+    <state width="2539" height="408" key="GridCell.Tab.0.left" timestamp="1660652019444">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.left/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1660652019444" />
+    <state width="2539" height="408" key="GridCell.Tab.0.right" timestamp="1660652019444">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.right/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1660652019444" />
+  </component>
+</project>
